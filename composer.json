@@ -1,6 +1,6 @@
 {
 
-  "name": "serps/core",
+  "name": "aburnet/core",
   "description": "Search engine scrapper",
   "type": "library",
   "keywords": ["google", "yahoo", "bing", "search engine", "scrapper"],
@@ -28,7 +28,7 @@
 
   "require": {
     "php": ">=5.5",
-    "symfony/css-selector": "^2|^3|^4",
+    "symfony/css-selector": "^2|^3|^4|^5",
     "psr/http-message": "^1.0.0"
   },
 
