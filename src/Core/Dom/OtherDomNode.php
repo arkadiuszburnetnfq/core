@@ -48,9 +48,9 @@ class OtherDomNode implements DomNodeInterface
     /**
      * @inheritdoc
      */
-    public function getAttribute($name)
+    public function getAttribute(string $name): string
     {
-        return null;
+        return '';
     }
 
     /**
